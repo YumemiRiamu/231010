@@ -130,7 +130,7 @@ void CASDFView::OnDeltaposSpin1(NMHDR* pNMHDR, LRESULT* pResult) {
 
    3. 실행 화면 </br>
 </br>
-![1](asdf.png) </br>
+![a](asdf.png) 
  </br>
 
   </br>
