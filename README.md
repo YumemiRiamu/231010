@@ -125,16 +125,10 @@ void CASDFView::OnDeltaposSpin1(NMHDR* pNMHDR, LRESULT* pResult) {
 }
 ***
 ```
-
-   </br>
-
-   3. 실행 화면 </br>
 </br>
-![Image description](./asdf.png)
+3. 실행 화면 </br>
 
- </br>
-
-  </br>
+![Image description](./asdf.png) </br>
 </br>
   4. 사용한 컨트롤 </br>
 Combo Box, EditText, Spin Control, Check Box, Group Box  </br>
