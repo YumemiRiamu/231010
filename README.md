@@ -1,4 +1,4 @@
-# 231010</br>
+
 </br>
 비주얼프로그래밍 팀프로젝트 4팀</br>
 20191276 양용석 </br>
@@ -129,13 +129,12 @@ void CASDFView::OnDeltaposSpin1(NMHDR* pNMHDR, LRESULT* pResult) {
    </br>
 
    3. 실행 화면 </br>
-
- </br>
- </br>
+</br>
+![1](asdf.png) </br>
  </br>
 
   </br>
-
+</br>
   4. 사용한 컨트롤 </br>
 Combo Box, EditText, Spin Control, Check Box, Group Box  </br>
 
